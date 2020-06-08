@@ -8,13 +8,10 @@ layout: default
 
 ### Tuesday June 16th
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
+| EDT        | PDT          | Schedule | Details |
+|:---|:---|:----------|:----------|
+| 9:00 am | 7:00 am | Plenary Session | Introduction and welcome to the SuperMaaS Hackathon |
+| 10:30 am | 8:30am | Break | |
 ---
 
 ### Wednesday June 17th
