@@ -15,3 +15,13 @@ Input from domain modelers and hands on experience with their models is crucial 
 
 * **Q:** Who is this hackathon designed to support?
 * **A:** The primary target of this hackathon are bottom-up modelers in the World Modelers program seeking to better understand the Model Registry process of SuperMaaS.  This includes any and all modelers who wish to make their models available to analysts through the CauseMos interface being developed by Uncharted.
+
+---
+
+* **Q:** What will the primary focus of the Hackathon be?
+* **A:** The Hackathon will consist of plenary sessions where general details of SuperMaaS will be discussed and demoed, and a series of 1:1 model registry sessions.  In these sessions we will work with a focus group of modelers in break-out virtual rooms to attempt hands-on registry of their models in this pre-alpha version of SuperMaaS.
+
+---
+
+* **Q:** What outcomes do we expect out of this Hackathon?
+* **A:** In the ideal world, the Hackathon will result in the registration of a number of new modelers in the SuperMaaS system.  Since this is a very early prototype, we will be using terminal capture utilities to better understand and record the process of model preparation, calibration, and configuration, as well as the procedures for model execution and output understanding.  These recorded sessions will then be leveraged by our engineers to improve the SuperMaaS system and better understand how to successfully register a larger subset of domain models.
