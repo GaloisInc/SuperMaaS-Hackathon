@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Links and Details for Vitual Attendance
+## Links and Details for Virtual Attendance
 
 ### Preparing your models
 
