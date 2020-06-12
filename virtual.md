@@ -22,7 +22,6 @@ A larger part of the hackathon will be creating an environment to run your model
 
 * Do you need Python2 or Python3? 
 * If you require MatLab, can your model run using Octave?
-* Does your model use special libraries (e.g. `???`, `???`, etc.)?
 
 #### If your model makes use of proprietary tools that need special licenses
 
