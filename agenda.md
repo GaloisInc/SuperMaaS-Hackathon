@@ -32,7 +32,7 @@ layout: default
 | 2:30 pm | 11:30 am | 1:1 Model Registration Session \#4 | Model registration session - track details to follow. |
 | 4:00 pm | 1:00 pm | Break | |
 | 4:30 pm | 1:30 pm | Plenary Session | End of day plenary session.  Initial reflections. |
-| 5:00 pm | 2:30 pm | End of day 2. |
+| 5:00 pm | 2:00 pm | End of day 2. |
 
 ---
 
