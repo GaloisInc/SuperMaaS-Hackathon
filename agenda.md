@@ -64,7 +64,7 @@ Peter Mburu | Logistic Supply Chain | Kimetrica | Shyam |
 
 | Domain Modeler | Model | Organization | Galois Partner |
 | :----- | :----- | :----- | :----- |
-Daniel Hardesty Lewis | Texas Advanced Computing Center | Ben |
+Daniel Hardesty Lewis | HAND-TauDEM | Texas Advanced Computing Center | Ben |
 Eric Muchugu | Crop-Model |Kimetrica | Giuliano |
 Yared Hurisa | Conflict Probability | Kimetrica | Shyam |
 
