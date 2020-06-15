@@ -46,16 +46,33 @@ layout: default
 | Ahmad Mohassel | Kimetrica | Giuliano |
 | Michael Puma | Columbia University | Shyam |
 
+---
+
 #### Session \#2
 
-**TBA**
+| Domain Modeler | Organization | Galois Partner |
+| :----- | :----- | :----- |
+Jenny Yu | Kimetrica | Ben |
+Scott D. Peckman | University of Colorado, Boulder | Giuliano |
+Peter Mburu | Kimetrica | Shyam |
+
+---
 
 ### Tuesday (6/17) 1:1 Registration Session Details
 
 #### Session \#3
 
-**TBA**
+| Domain Modeler | Organization | Galois Partner |
+| :----- | :----- | :----- |
+Daniel Hardesty Lewis | Texas Advanced Computing Center | Ben |
+Eric Muchugu | Kimetrica | Giuliano |
+Yared Hurisa | Kimetrica | Shyam |
+
+---
 
 #### Session \#4
 
-**TBA**
+| Domain Modeler | Organization | Galois Partner |
+| :----- | :----- | :----- |
+Eric Muchugu | Kimetrica | Ben |
+Christopher Villalobos | University of Florida | Giuliano |
