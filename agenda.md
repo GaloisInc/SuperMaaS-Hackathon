@@ -40,21 +40,21 @@ layout: default
 
 #### Session \#1
 
-| Domain Modeler | Organization | Galois Partner |
-| :----- | :----- | :----- |
-| Meridel Phillips | Columbia University | Ben |
-| Ahmad Mohassel | Kimetrica | Giuliano |
-| Michael Puma | Columbia University | Shyam |
+| Domain Modeler | Model | Organization | Galois Partner |
+| :----- | :----- | :----- | :----- |
+| Meridel Phillips | Simple Emulator Tool | Columbia University | Ben |
+| Ahmad Mohassel | Market Price Model | Kimetrica | Giuliano |
+| Michael Puma | Food Shocks Cascade | Columbia University | Shyam |
 
 ---
 
 #### Session \#2
 
-| Domain Modeler | Organization | Galois Partner |
-| :----- | :----- | :----- |
-Jenny Yu | Kimetrica | Ben |
-Scott D. Peckman | University of Colorado, Boulder | Giuliano |
-Peter Mburu | Kimetrica | Shyam |
+| Domain Modeler | Model | Organization | Galois Partner |
+| :----- | :----- | :----- | :----- |
+Jenny Yu | Malnutrition | Kimetrica | Ben |
+Scott D. Peckman | Topoflow | University of Colorado, Boulder | Giuliano |
+Peter Mburu | Logistic Supply Chain | Kimetrica | Shyam |
 
 ---
 
@@ -62,17 +62,17 @@ Peter Mburu | Kimetrica | Shyam |
 
 #### Session \#3
 
-| Domain Modeler | Organization | Galois Partner |
-| :----- | :----- | :----- |
+| Domain Modeler | Model | Organization | Galois Partner |
+| :----- | :----- | :----- | :----- |
 Daniel Hardesty Lewis | Texas Advanced Computing Center | Ben |
-Eric Muchugu | Kimetrica | Giuliano |
-Yared Hurisa | Kimetrica | Shyam |
+Eric Muchugu | Crop-Model |Kimetrica | Giuliano |
+Yared Hurisa | Conflict Probability | Kimetrica | Shyam |
 
 ---
 
 #### Session \#4
 
-| Domain Modeler | Organization | Galois Partner |
-| :----- | :----- | :----- |
-Eric Muchugu | Kimetrica | Ben |
-Christopher Villalobos | University of Florida | Giuliano |
+| Domain Modeler | Model | Organization | Galois Partner |
+| :----- | :----- | :----- | :----- |
+Eric Muchugu | Crop Notebook | Kimetrica | Ben |
+Christopher Villalobos | DSSAT Pythia | University of Florida | Giuliano |
