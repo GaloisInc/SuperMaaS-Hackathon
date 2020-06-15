@@ -40,7 +40,11 @@ layout: default
 
 #### Session \#1
 
-**TBA**
+| Domain Modeler | Organization | Galois Partner |
+| :----- | :----- | :----- |
+| Meridel Phillips | Columbia University | Ben |
+| Ahmad Mohassel | Kimetrica | Giuliano |
+| Michael Puma | Columbia University | Shyam |
 
 #### Session \#2
 
