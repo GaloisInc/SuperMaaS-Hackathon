@@ -44,7 +44,7 @@ layout: default
 | :----- | :----- | :----- | :----- |
 | Meridel Phillips | Simple Emulator Tool | Columbia University | Ben |
 | Ahmad Mohassel | Market Price Model | Kimetrica | Giuliano |
-| Michael Puma | Food Shocks Cascade | Columbia University | Shyam |
+| Peter Mburu | Logistic Supply Chain | Kimetrica | Shyam |
 
 ---
 
@@ -52,9 +52,10 @@ layout: default
 
 | Domain Modeler | Model | Organization | Galois Partner |
 | :----- | :----- | :----- | :----- |
-Jenny Yu | Malnutrition | Kimetrica | Ben |
-Scott D. Peckman | Topoflow | University of Colorado, Boulder | Giuliano |
-Peter Mburu | Logistic Supply Chain | Kimetrica | Shyam |
+| Jenny Yu | Malnutrition | Kimetrica | Ben |
+| Scott D. Peckman | Topoflow | University of Colorado, Boulder | Giuliano |
+| Michael Puma | Food Shocks Cascade | Columbia University | Shyam |
+
 
 ---
 
