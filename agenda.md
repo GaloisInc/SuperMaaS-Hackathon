@@ -40,11 +40,11 @@ layout: default
 
 #### Session \#1
 
-| Domain Modeler | Model | Organization | Galois Partner |
-| :----- | :----- | :----- | :----- |
-| Meridel Phillips | Simple Emulator Tool | Columbia University | Ben |
-| Ahmad Mohassel | Market Price Model | Kimetrica | Giuliano |
-| Peter Mburu | Logistic Supply Chain | Kimetrica | Shyam |
+| Domain Modeler | Model | Organization | Galois Partner | Room |
+| :----- | :----- | :----- | :----- | :----- |
+| Meridel Phillips | Simple Emulator Tool | Columbia University | Ben | [google meet](https://meet.google.com/idu-uzya-aik) |
+| Ahmad Mohassel | Market Price Model | Kimetrica | Giuliano | [google meet](https://meet.google.com/mqn-roms-mis) |
+| Peter Mburu | Logistic Supply Chain | Kimetrica | Shyam | [google meet](https://meet.google.com/fpm-vwej-vjy) |
 
 ---
 
