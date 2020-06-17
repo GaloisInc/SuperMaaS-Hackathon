@@ -65,9 +65,9 @@ layout: default
 
 | Domain Modeler | Model | Organization | Galois Partner |
 | :----- | :----- | :----- | :----- |
-Daniel Hardesty Lewis | HAND-TauDEM | Texas Advanced Computing Center | Ben |
-Eric Muchugu | Crop-Model |Kimetrica | Giuliano |
-Yared Hurisa | Conflict Probability | Kimetrica | Shyam |
+| Daniel Hardesty Lewis | HAND-TauDEM | Texas Advanced Computing Center | Ben |
+| Eric Muchugu | Crop-Model |Kimetrica | Giuliano |
+| Yared Hurisa | Conflict Probability | Kimetrica | Shyam |
 
 ---
 
@@ -75,5 +75,6 @@ Yared Hurisa | Conflict Probability | Kimetrica | Shyam |
 
 | Domain Modeler | Model | Organization | Galois Partner |
 | :----- | :----- | :----- | :----- |
-Eric Muchugu | Crop Notebook | Kimetrica | Ben |
-Christopher Villalobos | DSSAT Pythia | University of Florida | Giuliano |
+| Jenny Yu | Population Model | Kimetrica | Ben |
+| Christopher Villalobos | DSSAT Pythia | University of Florida | Giuliano |
+| Peter Mburu | Hydrology | Kimetrica | Shyam |
